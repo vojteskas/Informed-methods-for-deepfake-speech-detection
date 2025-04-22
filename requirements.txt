@@ -1,0 +1,6 @@
+tensorboard
+pandas
+matplotlib
+scikit-learn
+tqdm
+audiomentations

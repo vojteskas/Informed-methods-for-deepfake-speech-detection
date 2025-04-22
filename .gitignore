@@ -1,0 +1,9 @@
+__pycache__
+trained_models
+scores
+*.pt
+*.pth
+*.zip
+*.png
+*.flac
+*.wav
